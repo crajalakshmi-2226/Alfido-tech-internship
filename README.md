@@ -42,7 +42,7 @@ pip install pandas numpy scikit-learn matplotlib
 
 The complete trained ResNet18 model is available here:
 
-[Download Trained Model (.pth)]https://drive.google.com/file/d/1JvEKzkWow-iyGGhG8b_BMs4vN3vrFL_S/view?usp=drivesdk
+[Download Trained Model (.pth)](https://drive.google.com/file/d/1JvEKzkWow-iyGGhG8b_BMs4vN3vrFL_S/view?usp=drivesdk)
 
 - Model: ResNet18
 - Dataset: CIFAR-10
