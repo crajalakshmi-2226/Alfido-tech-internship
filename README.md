@@ -57,3 +57,10 @@ The complete trained ResNet18 model is available here:
 
 > Note: The `.pth` file is a PyTorch model file and cannot be previewed directly in Google Drive.
 > Download the file to use it for inference.
+## Task 4: Responsible AI & Model Interpretation
+
+- Built a Random Forest model using the Breast Cancer dataset.
+- Evaluated model performance using accuracy, precision, recall, and F1-score.
+- Used SHAP for model explainability and feature importance analysis.
+- Discussed fairness limitations, potential bias risks, and mitigation strategies.
+- Included local and global model interpretation.
