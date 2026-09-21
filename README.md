@@ -36,3 +36,18 @@ Breast Cancer Wisconsin Dataset available through Scikit-learn.
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib
+## Task 2: Deep Learning - CIFAR-10 Image Classification
+
+### Model Download
+
+The complete trained ResNet18 model is available here:
+
+[Download Trained Model (.pth)]https://drive.google.com/file/d/1JvEKzkWow-iyGGhG8b_BMs4vN3vrFL_S/view?usp=drivesdk
+
+- Model: ResNet18
+- Dataset: CIFAR-10
+- Training Samples: 10,000
+- Epochs: 3
+- Final Training Accuracy: 74.44%
+- Model Size: 42.73 MB
+- Framework: PyTorch
