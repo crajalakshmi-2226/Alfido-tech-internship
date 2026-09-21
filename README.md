@@ -51,3 +51,9 @@ The complete trained ResNet18 model is available here:
 - Final Training Accuracy: 74.44%
 - Model Size: 42.73 MB
 - Framework: PyTorch
+### Model Download
+
+[Download Trained Model (.pth)](https://drive.google.com/file/d/1JvEKzkWow-iyGGhG8b_BMs4vN3vrFL_S/view?usp=drivesdk)
+
+> Note: The `.pth` file is a PyTorch model file and cannot be previewed directly in Google Drive.
+> Download the file to use it for inference.
